@@ -1,4 +1,4 @@
-Los scripts que se pensaron se encuentran en varios paradigmas ( Se aclara en cada script ). 
+Los scripts que se pensaron se encuentran en varios paradigmas ( se aclara en cada script ). 
 
 Para ejecutar cada uno es necesario python 3 en adelante. 
 Comando de ejecucion: 
